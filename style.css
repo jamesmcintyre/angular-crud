@@ -1,0 +1,35 @@
+
+.lightsteelblue {
+  background-color: rgb(231, 231, 231);
+}
+
+.top-header h1 {
+  margin-left: 15px;
+  margin-top: 57px;
+}
+
+.right-panel {
+  padding: 25px;
+  border: 1px solid #E0E0E0;
+  background-color: rgb(243, 243, 243);
+}
+
+.saveEditButton {
+  margin-left: 15px;
+}
+
+.addContact {
+  margin-top: 15px;
+}
+
+.searchbox {
+  margin-right: 10px;
+}
+
+.table thead tr th {
+  border-top: 0;
+}
+
+.table {
+  margin-top: 15px;
+}
