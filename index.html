@@ -46,11 +46,11 @@
 
                 <tr>
 
-                  <th ng-repeat="(key, value) in contacts[0] || {}" ngclick="">
-                    <p ng-click="sortBy(key)">
+                  <th ng-repeat="(key, value) in contacts[0] || {}" ng-click="sortBy(key)">
+                    <!-- <p> -->
                       {{key}}
                       <span ng-show="sortType == '{{key}}'" class="fa fa-caret-down"></span>
-                    </p>
+                    <!-- </p> -->
                   </th>
 
 
