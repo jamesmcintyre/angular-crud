@@ -1,6 +1,6 @@
 
 .lightsteelblue {
-  background-color: rgb(231, 231, 231);
+  background-color: rgb(241, 241, 241);
 }
 
 .top-header h1 {
@@ -12,6 +12,22 @@
   padding: 25px;
   border: 1px solid #E0E0E0;
   background-color: rgb(243, 243, 243);
+  border-radius: 3px;
+    -webkit-animation-delay: 0.25s;
+    -moz-animation-delay: 0.25s;
+    -o-animation-delay: 0.25s;
+    -ms-animation-delay: 0.25s;
+    -webkit-animation-duration: 0.7s;
+    -moz-animation-duration: 0.7s;
+    -o-animation-duration: 0.7s;
+    -ms-animation-duration: 0.7s;
+}
+
+.list {
+  -webkit-animation-duration: 0.75s;
+  -moz-animation-duration: 0.75s;
+  -o-animation-duration: 0.75s;
+  -ms-animation-duration: 0.75s;
 }
 
 .saveEditButton {
